@@ -1,0 +1,32 @@
+nav {
+  background-color: #19d3da;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #e2edff;
+}
+
+#projects {
+  background-color: #e2edff;
+}
+
+footer {
+  background-color: #19d3da;
+}
+
+a {
+  color: #fff;
+}
+
+a .discord:hover {
+  color: #7289da;
+}
+
+a .instagram:hover {
+  color: #e1306c;
+}
